@@ -1,2 +1,5 @@
 .DS_Store
 .vscode
+cython/angle_conversions.c
+kerrangleconversions.cpython-*
+kerrangleconversions.egg-info/
